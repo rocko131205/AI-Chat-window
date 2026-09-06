@@ -1,7 +1,6 @@
 # api-key-test
 
-Tester and interactive chat for an Experiential Labs API key.
-Endpoint is OpenAI-compatible: `https://api.experientiallabs.ai/v1`
+Tester and interactive chat UI for any OpenAI-compatible LLM API — Experiential Labs, OpenAI, Google AI Studio, Groq, DeepSeek, or a local model. Attach files or a whole folder as context.
 
 ## Setup
 
