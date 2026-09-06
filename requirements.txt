@@ -1,0 +1,6 @@
+# chat.py and server.py need this
+openai>=1.0
+
+# test.py and freecheck.py work without it, but on macOS python.org builds
+# the system has no root certificates -- certifi supplies them.
+certifi
